@@ -1,0 +1,9 @@
+export { default as ProfileHeader } from './ProfileHeader';
+export { default as TabNavigation } from './TabNavigation';
+export { default as InfoCard } from './InfoCard';
+export { default as ContactFooter } from './ContactFooter';
+export { default as ContactModal } from './ContactModal';
+export { default as VerificationCard } from './VerificationCard';
+export { default as CertificationsSection } from './CertificationsSection';
+export { default as DetailsList } from './DetailsList';
+export { default as QuickInfoCards } from './QuickInfoCards'; 
